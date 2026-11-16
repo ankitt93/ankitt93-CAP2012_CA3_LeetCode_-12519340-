@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
