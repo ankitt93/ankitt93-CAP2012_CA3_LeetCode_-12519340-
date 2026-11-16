@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
