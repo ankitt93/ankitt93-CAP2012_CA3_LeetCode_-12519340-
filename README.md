@@ -1,95 +1,18 @@
-# ankitt93-CAP2012_CA3_LeetCode_-12519340-
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# CAP2012 CA3 – LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0027-remove-element) |
-| [0088-merge-sorted-array](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0088-merge-sorted-array) |
-| [0189-rotate-array](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0189-rotate-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0027-remove-element) |
-| [0061-rotate-list](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0061-rotate-list) |
-| [0088-merge-sorted-array](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0088-merge-sorted-array) |
-| [0189-rotate-array](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0189-rotate-array) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0088-merge-sorted-array) |
-## Math
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0189-rotate-array) |
-| [0509-fibonacci-number](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0509-fibonacci-number) |
-| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0032-longest-valid-parentheses](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0032-longest-valid-parentheses) |
-| [0509-fibonacci-number](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0509-fibonacci-number) |
-## Recursion
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0206-reverse-linked-list) |
-| [0509-fibonacci-number](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0509-fibonacci-number) |
-## Linked List
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0023-merge-k-sorted-lists) |
-| [0061-rotate-list](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0061-rotate-list) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0083-remove-duplicates-from-sorted-list) |
-| [0092-reverse-linked-list-ii](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0092-reverse-linked-list-ii) |
-| [0206-reverse-linked-list](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0206-reverse-linked-list) |
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0032-longest-valid-parentheses) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0032-longest-valid-parentheses) |
-| [0155-min-stack](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0155-min-stack) |
-| [0232-implement-queue-using-stacks](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0232-implement-queue-using-stacks) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0032-longest-valid-parentheses) |
-## Design
-|  |
-| ------- |
-| [0155-min-stack](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0155-min-stack) |
-| [0232-implement-queue-using-stacks](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0232-implement-queue-using-stacks) |
-## Queue
-|  |
-| ------- |
-| [0232-implement-queue-using-stacks](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0232-implement-queue-using-stacks) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0023-merge-k-sorted-lists) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0023-merge-k-sorted-lists) |
-## Merge Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0023-merge-k-sorted-lists) |
-## Tournament Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/ankitt93/ankitt93-CAP2012_CA3_LeetCode_-12519340-/tree/master/0023-merge-k-sorted-lists) |
-<!---LeetCode Topics End-->
+Solutions for the CAP2012 Data Structures CA3 assignment, organized by LeetCode difficulty.
+
+## Progress
+- Easy: 9 assigned problems
+- Medium: 5 assigned problems (4 solutions currently present)
+- Hard: 2 assigned problems
+- Available C++ solutions in this repository: 15 of 16
+
+## Folders
+- [Easy](./Easy/)
+- [Medium](./Medium/)
+- [Hard](./Hard/)
+
+All source files are C++ solutions. LeetHub's duplicate per-problem folders and generated topic listing have been consolidated into the difficulty folders.
+
+**Pending:** LeetCode 622 – Design Circular Queue. The previous LeetHub folder contained a README for a different problem (860) and no C++ solution, so no solution has been fabricated.
